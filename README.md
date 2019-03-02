@@ -19,7 +19,7 @@ Module name | Description
 Module name | Description
 --- | ----
 `CONTROLLER` | Component of the processor that commands the datapath and data-memory according to the instructions of the instruction-memory
-`DATAPATH` |Components of the processor that perform arithmetich operations and holds data
+`DATAPATH` |Components of the processor that perform arithmetic operations and holds data
 
 ### CONTROLLER
 Module name | Description
