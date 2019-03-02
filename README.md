@@ -14,21 +14,18 @@ Module name | Description
 `CORE` | Get the _Datapath_ and the _Controller_ to interact themselves
 `INSTRUCTION MEMORY` |Holds the program's instructions
 `DATA MEMORY` | Memory of the processor which holds the data
-___
 
 ### CORE
 Module name | Description
 --- | ----
 `CONTROLLER` | Component of the processor that commands the datapath and data-memory according to the instructions of the instruction-memory
 `DATAPATH` |Components of the processor that perform arithmetich operations and holds data
-___
 
 ### CONTROLLER
 Module name | Description
 --- | ----
 `MAINDEC` | Main part of the controller. It runs the modules through control signals
 `ALUDEC` |Generate the signal '_aluControl_' that drives the ALU
-___
 
 ### DATAPATH
 Module name | Description
@@ -40,8 +37,6 @@ Module name | Description
 `ADDER` | Makes the sum of two values (including when the second value is negative)
 `MUX` |Implementation of a multiplexer with two 32bit input and 1bit control signal
 
-
-___
 __Project owners__
 * Federico Giusti
 *  Mirco Mannino
