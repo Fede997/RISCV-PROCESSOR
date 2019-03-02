@@ -1,0 +1,15 @@
+<!DOCTYPE SimulationProject SYSTEM "hdl-prj.dtd">
+<SimulationProject Logfile="verilog.log" Keyfile="..\..\..\..\VERILOG\verilog.key" Language="Verilog" DelayType="typical" AddTopLevelSignals="1" FileNamesShown="1" HideEmptyLists="1" ShowWatch="1" DumpWatch="0" InteractiveMode="1" LanguageTemplate="C:\VERILOG\templatefiles\diagram.v">
+  <DirList>
+    <Directory>C:\VERILOG\</Directory>
+  </DirList>
+  <LibFileList>
+    <File>cpuRISCV-datapath.v</File>
+  </LibFileList>
+  <LibDirList>
+    <Directory>C:\VERILOG\lib\verilog\</Directory>
+  </LibDirList>
+  <LibExtensionList>
+    <Extension>.v</Extension>
+  </LibExtensionList>
+</SimulationProject>

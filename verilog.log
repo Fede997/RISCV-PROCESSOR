@@ -1,0 +1,36 @@
+VeriLogger Pro simulation log created at Sat Mar 02 08:01:32 2019
+Beginning Compile
+Beginning Phase I
+Compiling source file: C:\Users\Manno\Desktop\Progetto Risc-V\Risc-V Verilog\cpuRISCV-cpu_factorial.v
+Finished Phase I
+Entering Phase II...
+Finished Phase II
+Entering Phase III...
+Finished Phase III
+Highest level modules:   Cpu_testbench
+Finding handle to Cpu_testbench.reset_
+Finding handle to Cpu_testbench.clock
+Finding handle to Cpu_testbench.PC
+Finding handle to Cpu_testbench.IR
+Finding handle to Cpu_testbench.D
+Finding handle to Cpu_testbench.Q
+Finding handle to Cpu_testbench.A
+Finding handle to Cpu_testbench.B
+Finding handle to Cpu_testbench.RESULT
+Finding handle to Cpu_testbench.SELBRANCH
+Finding handle to Cpu_testbench.ZERO
+Finding handle to Cpu_testbench.LSB
+Finding handle to Cpu_testbench.PCBRANCH
+Finding handle to Cpu_testbench.PCNEXT
+Finding handle to Cpu_testbench.PCMUX
+Finding handle to Cpu_testbench.RESET
+Compile Complete
+.
+Running...
+REG	RESULT	EXPECTED
+R7	00000078	78
+Exiting VeriLogger Pro at simulation time 322000
+0 Errors, 0 Warnings
+Compile time = 0.03100, Load time = 0.04700, Execution time = 0.03100
+
+Normal exit
