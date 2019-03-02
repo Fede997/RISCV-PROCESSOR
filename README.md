@@ -8,6 +8,7 @@ The top level files, which test three simple programs, are:
 Below is a top-down description of the __RISC-V processor__.
 ### CPU
 The CPU is the main module of the RISC-V processor, which coordinates all the sub-modules to ensure the operation of the entire system.
+
 Module name | Description
 --- | ----
 `CORE` | Get the _Datapath_ and the _Controller_ to interact themselves
